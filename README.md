@@ -17,5 +17,12 @@ Realmを利用した簡単なiOSアプリです
 ## インストール手順
 
 1. Gitリポジトリのクローン
+	```
+	git clone https://github.com/ogikubonemui/sampleRealm.git
+	```
 1. ライブラリのインストール
-1. ライブラリ込みのプロジェクトファイルを開く
+	```
+	pod install
+	```
+1. ライブラリ込みのプロジェクトファイルを開く  
+	**白いファイル**を利用すること
